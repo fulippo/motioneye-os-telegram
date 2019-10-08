@@ -1,9 +1,9 @@
-# motioneye-os-telegram
-Bash script to receive a Telegram notification on motion detection
+# MotionEyeOs Telegram Integration
+Bash script to send a motion detection notification using Telegram
 
 ## Installation
 
-Ssh into you MotionEyeOs unit, copy the script to /data/bin/telegram.sh and and change permissions to make the script executable.
+`ssh` into you MotionEyeOs unit, copy the script to `/data/bin/telegram.sh` and and change permissions to make the script executable.
 
 ## MotionEyeOs Configuration
 
